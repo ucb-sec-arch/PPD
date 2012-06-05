@@ -2,8 +2,8 @@ PPD: Platform-for-Private-Data
 ==============================
 
 PPD is under construction and will be released shortly.
-Please contact any of the developers below if you wish
-to learn more.
+Please email ppd.berkeley@gmail.com or contact any of the 
+developers below if you wish to learn more.
 
 
 **Developers**
