@@ -8,6 +8,7 @@ developers below if you wish to learn more.
 
 **Developers**
 - Jin Chen (ciccinocj@gmail.com)
+- Petros Maniatis (petros.maniatis@intel.com)
 - Prashanth Mohan (prmohan@cs.berkeley.edu)
 - Charalampos Papamanthou (cpap@cs.berkeley.edu)
 - Elaine Shi (runting@cs.cmu.edu)
